@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "61bf5a0da49ba3c8016535ef"
+  },
+  "name": "BCS-6A",
+  "students": [
+    {
+      "sid": {
+        "$oid": "61bf598aa49ba3c8016535eb"
+      },
+      "_id": {
+        "$oid": "61bf5a5ea49ba3c8016535f1"
+      }
+    }
+  ],
+  "quizes": [
+    {
+      "qid": {
+        "$oid": "61bf644f9e62db4ed4f1dbac"
+      },
+      "_id": {
+        "$oid": "61bf6606333e05ef7358ef80"
+      }
+    }
+  ],
+  "__v": 0
+}]

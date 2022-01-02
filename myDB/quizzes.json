@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "61bf644f9e62db4ed4f1dbac"
+  },
+  "question": "Whts is SLS",
+  "answers": "SLS IS...",
+  "totalmarks": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf649b9e62db4ed4f1dbaf"
+  },
+  "question": "Whts is DBs",
+  "answers": "Its IS...",
+  "totalmarks": 20,
+  "__v": 0
+}]
